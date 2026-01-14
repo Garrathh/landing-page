@@ -1,0 +1,22 @@
+:root {
+  --dark-background: #1f2937;
+  --light-background: white;
+}
+*{
+    font-family: 'Roboto';
+}
+
+
+
+
+.header-logo{
+    display: flex;
+    flex: auto;
+    top: 0;
+    left: 0;
+    width: 10%;
+    height:10%;
+}
+.div-header{
+    background-color: cadetblue;
+}
